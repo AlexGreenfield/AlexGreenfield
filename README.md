@@ -5,6 +5,11 @@ Greetings! I'm Alex, a tech journalist who recently started his journey into pro
 At the moment I'm studying at 42 Madrid campus, getting the hang of computer programming and making my first steps on C language. This Github page is a way to keep track of my progress in the campus, but I hope it helps other students!! 
 
 [![acastrov's 42 stats](https://badge.mediaplus.ma/colorfulwaves/acastrov?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+I'm also a hobbyist musician! This is a quick song I made while participating in the Madrid in Game [10th Game Jam in January 2026](https://itch.io/jam/hack-jam-10-y-11). It was my first game jam (and my first time using Godot), and besides being in charge of the music and sound, I also coded and designed some aspects of the game with my awesome teammates (we had a blast!). So if you want some music for your game, feel free to DM!!!
+
+[![Bus in Time - Game Concept OST - #MadridinGameJam26](https://img.youtube.com/vi/w1tHTwSjPYc/maxresdefault.jpg)](https://www.youtube.com/watch?v=w1tHTwSjPYc)
+
 <!--
 **AlexGreenfield/AlexGreenfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
