@@ -1,5 +1,7 @@
 ## Hello there!! 👋
 
+![cat](https://github.com/user-attachments/assets/e882e976-bf08-4071-8aff-aa9f2e57ad28)
+
 Greetings! I'm Alex, a tech journalist who recently started his journey into programming. 
 
 At the moment I'm studying at 42 Madrid campus, getting the hang of computer programming and making my first steps on C language. This Github page is a way to keep track of my progress in the campus, but I hope it helps other students!! 
