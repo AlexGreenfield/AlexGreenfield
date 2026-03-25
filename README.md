@@ -6,11 +6,16 @@ Greetings! I'm Alex, a tech journalist who recently started his journey into pro
 
 At the moment I'm studying at 42 Madrid campus, getting the hang of computer programming and making my first steps on C language. This Github page is a way to keep track of my progress in the campus, but I hope it helps other students!! 
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/acastrov?1337Badge=off&UM6P=off" alt="42 stats">
-  </a>
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGreenfield&layout=donut-vertical&hide_border=true" height="300" alt="Top Langs" />
+    </a>
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/colorfulwaves/acastrov?1337Badge=off&UM6P=off" height="500" alt="42 stats" />
+    </a>
+  </div>
+</div>
 
 I'm also a hobbyist musician! This is a quick song I made while participating in the Madrid in Game [10th Game Jam in January 2026](https://itch.io/jam/hack-jam-10-y-11). It was my first game jam (and my first time using Godot), and besides being in charge of the music and sound, I also coded and designed some aspects of the game with my awesome teammates (we had a blast!). So if you want some music for your game, feel free to DM!!!
 
