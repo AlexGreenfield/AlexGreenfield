@@ -7,11 +7,11 @@ Greetings! I'm Alex, a tech journalist who recently started his journey into pro
 At the moment I'm studying at 42 Madrid campus, getting the hang of computer programming and making my first steps on C language. This Github page is a way to keep track of my progress in the campus, but I hope it helps other students!! 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGreenfield&layout=donut-vertical&hide_border=true" height="275" alt="Top Langs" />
+  <a>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AlexGreenfield&layout=compact&langs_count=8&theme=default">
   </a>
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/acastrov?1337Badge=off&UM6P=off" height="275" alt="42 stats" />
+  <a>
+    <img src="https://github-stats-extended.vercel.app/api?username=AlexGreenfield&hide_rank=true&include_all_commits=true">
   </a>
 </div>
 
